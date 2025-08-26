@@ -3,7 +3,7 @@ My first GitHub repository for PLTW Computer Science
 **Name**: [Jabari Reece]
 **Class**: PLTW Computer Science
 **Date*: [25/7/25]
-## my github
+## Project Description This Repository demostrates my understanding of github basics
 ## what i learned
 -How to create github accounts
 -README.md formatting
